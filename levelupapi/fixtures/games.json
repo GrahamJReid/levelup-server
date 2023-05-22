@@ -1,0 +1,27 @@
+[
+  {
+      "model": "levelupapi.game",
+      "pk": 1,
+      "fields": {
+          "title": " Django Board game",
+          "maker": "Dr. T",
+          "number_of_players":5,
+          "skill_level": 3,
+          "game_type_id": 1,
+          "gamer_id": 1
+      }
+  },
+  {
+    "model": "levelupapi.game",
+    "pk": 2,
+    "fields": {
+        "title": " Django Board game 2",
+        "maker": "Trinity",
+        "number_of_players":4,
+        "skill_level": 2,
+        "game_type_id": 1,
+        "gamer_id": 1
+    }
+}
+
+]
